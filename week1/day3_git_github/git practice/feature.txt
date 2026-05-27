@@ -1,0 +1,5 @@
+Feature Branch Practice
+
+- Created feature branch
+- Switched branch using git checkout
+- Added new feature file

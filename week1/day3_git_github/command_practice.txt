@@ -1,0 +1,31 @@
+Git Commands Practice
+
+1. git init
+   Initializes a Git repository
+
+2. git status
+   Shows repository status
+
+3. git add .
+   Adds all files to staging area
+
+4. git commit -m "message"
+   Saves changes permanently
+
+5. git branch
+   Shows available branches
+
+6. git checkout branch_name
+   Switches branch
+
+7. git merge branch_name
+   Merges branches
+
+8. git push
+   Uploads code to GitHub
+
+9. git pull
+   Downloads latest changes
+
+10. git clone URL
+    Copies repository from GitHub

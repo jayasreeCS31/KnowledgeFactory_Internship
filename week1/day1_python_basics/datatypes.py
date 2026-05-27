@@ -1,0 +1,16 @@
+a=10
+b=10.5
+c=True
+d="Python"
+name="Jaya"
+marks=95
+cgpa=8.6
+placed=False
+print(type(name))
+print(type(marks))
+print(type(cgpa))
+print(type(placed))
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))

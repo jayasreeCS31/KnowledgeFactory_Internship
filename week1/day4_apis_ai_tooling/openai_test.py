@@ -1,0 +1,14 @@
+from openai import OpenAI
+client = OpenAI(
+    api_key="your_api_key_here"
+)
+response = client.chat.completions.create(
+    model="gpt-4.1-mini",
+    messages=[
+        {
+            "role": "user",
+            "content": "Explain APIs simply"
+        }
+    ]
+)
+print(response.choices[0].message.content)

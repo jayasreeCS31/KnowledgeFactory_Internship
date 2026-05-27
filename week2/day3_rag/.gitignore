@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Chroma database files
+chroma/
+chromadb/
+
+# HuggingFace cache
+.cache/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

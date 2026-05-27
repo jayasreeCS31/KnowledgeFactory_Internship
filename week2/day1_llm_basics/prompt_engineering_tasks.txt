@@ -1,0 +1,155 @@
+PROMPT IMPROVEMENT TASK
+
+Bad Prompt:
+Explain AI
+
+Better Prompt:
+Explain AI to a school student
+
+Best Prompt:
+Act as a teacher and explain AI to a school student using examples in under 150 words.
+
+-------------------------------------------------
+
+Bad Prompt:
+Explain Java
+
+Better Prompt:
+Explain Java with examples
+
+Best Prompt:
+Act as a Java mentor and explain Java for beginners with real-world examples.
+
+-------------------------------------------------
+
+Basic Prompt vs Improved Prompt
+
+Prompt 1 (Basic):
+Explain Artificial Intelligence.
+
+Observation:
+Response was very general and lacked audience context.
+
+Improved Prompt:
+Act as a teacher and explain Artificial Intelligence to a beginner using simple examples in less than 150 words.
+
+Observation:
+Response became simpler, clearer, and more targeted.
+
+-------------------------------------------------
+
+Task 2: Role-based Prompting
+
+Prompt:
+Act as a Java professor and explain inheritance with real-world examples.
+
+Observation:
+The model answered from a teaching perspective and included examples.
+
+-------------------------------------------------
+
+Task 3: Context-based Prompting
+
+Prompt:
+Explain Python loops.
+
+Observation:
+Generic explanation.
+
+Improved Prompt:
+Explain Python loops to a first-year engineering student with code examples and practical use cases.
+
+Observation:
+Output became more relevant and detailed.
+
+-------------------------------------------------
+
+Task 4: Constraint-based Prompting
+
+Prompt:
+Summarize Machine Learning.
+
+Observation:
+Length and format were uncontrolled.
+
+Improved Prompt:
+Summarize Machine Learning in exactly 5 bullet points.
+
+Observation:
+Response followed a structured format.
+
+-------------------------------------------------
+
+Task 5: Prompt Formula Experiment
+
+Prompt Formula:
+
+Role + Task + Context + Constraints
+
+Example:
+
+Role:
+Act as a Data Structures instructor
+
+Task:
+Explain linked lists
+
+Context:
+For beginner students
+
+Constraint:
+Use simple language and keep within 100 words
+
+Final Prompt:
+
+Act as a Data Structures instructor and explain linked lists for beginner students using simple language within 100 words.
+
+Observation:
+Combining all components improved quality.
+
+-------------------------------------------------
+
+Task 6: Zero-shot Prompt
+
+Prompt:
+Translate "Good Morning" into French.
+
+Observation:
+Model completed task without examples.
+
+-------------------------------------------------
+Task 7: One-shot Prompt
+
+Prompt:
+
+Apple → Fruit
+Carrot → Vegetable
+Mango → ?
+
+Observation:
+Model understood the pattern and predicted category.
+
+-------------------------------------------------
+
+Task 8: Few-shot Prompt
+
+Prompt:
+
+Dog → Animal
+Rose → Flower
+Tiger → Animal
+Lotus → ?
+
+Observation:
+Model learned from multiple examples.
+
+-------------------------------------------------
+
+Task 9: Chain of Thought Prompt
+
+Prompt:
+Solve this math problem step by step:
+If a train travels 60 km in 1 hour, how far will it travel in 5 hours?
+
+Observation:
+Model explained reasoning before giving final answer.

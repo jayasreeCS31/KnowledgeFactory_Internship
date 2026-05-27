@@ -1,0 +1,9 @@
+{
+    "name": "Jayasree",
+    "age": 21,
+    "course": "CSE",
+    "marks": {
+        "python": 95,
+        "java": 90
+    }
+}

@@ -1,0 +1,7 @@
+GitHub Workflow
+
+1. git add .
+2. git commit
+3. git push
+4. Create Pull Request
+5. Merge Changes

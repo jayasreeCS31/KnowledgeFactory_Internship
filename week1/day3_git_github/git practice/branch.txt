@@ -1,0 +1,19 @@
+Create Branch:
+git branch feature1
+
+View Branches:
+git branch
+
+Switch to Feature Branch:
+git checkout feature1
+
+Check again:
+git branch
+
+Create file & Commit 
+
+Switch Back to Main:
+git checkout main
+
+Merge Feature Branch:
+git merge feature1

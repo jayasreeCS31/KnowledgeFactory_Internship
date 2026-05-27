@@ -1,0 +1,14 @@
+Observation 1:
+Specific prompts generate better responses.
+
+Observation 2:
+Adding role and context improves output.
+
+Observation 3:
+Low temperature gives predictable responses.
+
+Observation 4:
+High temperature gives creative responses.
+
+Observation 5:
+Prompt quality directly affects result quality.

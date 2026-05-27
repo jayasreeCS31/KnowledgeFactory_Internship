@@ -1,0 +1,5 @@
+git status Output Practice
+
+- Untracked files
+- Modified files
+- Changes to be committed

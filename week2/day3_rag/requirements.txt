@@ -1,0 +1,5 @@
+pypdf
+sentence-transformers    #Create embeddings
+chromadb                 #Vector search
+numpy
+scikit-learn             #Similarity functions

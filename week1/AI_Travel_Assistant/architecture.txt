@@ -1,0 +1,16 @@
+AI Travel Assistant Architecture
+
+User
+   ↓
+app.py
+   ↓
+Business Logic Layer
+   ↓
+Weather Service
+Place Service
+Budget Service
+AI Service
+   ↓
+OpenWeather API
+   ↓
+JSON Storage

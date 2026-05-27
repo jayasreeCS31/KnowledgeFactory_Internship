@@ -1,0 +1,29 @@
+[
+    {
+        "city": "hyderabad",
+        "budget": 5400
+    },
+    {
+        "name": "vikky",
+        "city": "bangalore",
+        "budget": 8100
+    },
+    {
+        "name": "grt",
+        "city": "guntur",
+        "budget": 2700
+    },
+    {
+        "name": "vikky",
+        "city": "hyderabad",
+        "budget": 5400
+    },
+    {
+        "name": "ffgsdh",
+        "city": "guntur",
+        "days": 2,
+        "weather": "broken clouds",
+        "budget": 5400,
+        "date": "23-05-2026 12:19"
+    }
+]

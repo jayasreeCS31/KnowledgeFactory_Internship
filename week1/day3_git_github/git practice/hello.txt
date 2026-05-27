@@ -1,0 +1,11 @@
+Hello Git
+Learning GitHub:
+
+GitHub is an online platform where Git repositories are stored.
+
+It helps developers:
+
+Upload projects online
+Collaborate with teams
+Share code publicly/private
+Manage pull requests and issues

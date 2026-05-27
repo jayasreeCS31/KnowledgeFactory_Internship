@@ -1,0 +1,19 @@
+1. Explain Python loops.
+
+2. Act as a Java teacher and explain inheritance.
+
+3. Summarize Artificial Intelligence in 100 words.
+
+4. Explain blockchain using simple examples.
+
+5. Generate SQL query to fetch student records.
+
+6. Create 5 quiz questions on Python.
+
+7. Explain Machine Learning to beginners.
+
+8. Convert paragraph into bullet points.
+
+9. Write a leave letter.
+
+10. Debug this Python code.

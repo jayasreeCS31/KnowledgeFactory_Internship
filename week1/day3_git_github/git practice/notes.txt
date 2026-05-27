@@ -1,0 +1,11 @@
+Git Basics Notes
+
+- Git is a version control system
+- GitHub is used to host repositories
+- Git tracks file changes
+Git is a Version Control System (VCS) used to:
+
+Track changes in code
+Manage project versions
+Work with teams without losing files
+Restore old versions when mistakes happen
